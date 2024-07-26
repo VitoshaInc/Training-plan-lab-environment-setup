@@ -55,6 +55,8 @@
 
 ## Opening IntelliJ IDEA for Java Applications
 
+# All the repos are inside git folder of your specific username
+
 1. **Open IntelliJ IDEA**:
    - Click on the Start menu, type `IntelliJ IDEA`, and open the application.
 
