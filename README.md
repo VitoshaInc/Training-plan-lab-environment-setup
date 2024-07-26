@@ -1,5 +1,3 @@
-# Consulting Service Company Documentation
-
 ## Connecting to Amazon WorkSpaces from a Windows Machine
 
 ### Prerequisites
