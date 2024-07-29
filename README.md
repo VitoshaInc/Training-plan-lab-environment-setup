@@ -21,7 +21,7 @@ Welcome to Vitosha Inc! This guide will help you set up your training environmen
    - Open the Amazon WorkSpaces client application from your desktop or start menu.
 
 3. **Register Your WorkSpace**:
-   - Open the invitation email sent by your administrator.
+   - Open the invitation email sent by your HR.
    - Copy the registration code provided in the email.
    - In the WorkSpaces client application, paste the registration code and click "Register".
 
