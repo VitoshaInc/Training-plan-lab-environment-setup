@@ -1,7 +1,9 @@
 # Training Plan and Lab Environment Setup Guide
 
 Welcome to Vitosha Inc! This guide will help you set up your training environment and navigate the 24-month STEM OPT extension training plan. Our virtual workspaces, powered by Amazon Web Services, provide access to comprehensive training resources and practical application environments.
-More information can be found in [this document](https://sites.google.com/vitoshainc.com/vitoshainci-983trainingplan).
+
+# More information can be found [here](https://sites.google.com/vitoshainc.com/vitoshainci-983trainingplan).
+
 ## Prerequisites
 
 1. **Amazon WorkSpaces Invitation Email**: Ensure you have received the invitation email from Vitosha's administrator. If not, please email hr@vitoshainc.com to get onboarded.
